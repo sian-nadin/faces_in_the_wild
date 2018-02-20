@@ -19,4 +19,4 @@ directory. To check the predictions on the testing dataset we first take the gra
 array, flatten the array and then transform it using our PCA which we fitted earlier. Once we get the transformed array we predict the
 label for the test image and print it out.
 
-![screenshot](screenshots/faces_in_the_wild)
+![screenshot](screenshots/faces_in_the_wild.png)
